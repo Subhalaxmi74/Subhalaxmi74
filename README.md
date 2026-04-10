@@ -4,10 +4,7 @@
   </a>
 </div>
  <h3 align="center">A passionate Full Stack Developer (Frontend + Backend) and Software developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Preeti-0318&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+ <hr>
 
 # 💫 About Me:
 ✏️ I’m currently working on<br>Frontend web development projects using HTML, CSS, and JavaScript.<br><br>👥 I’m looking to collaborate on<br>Web development and UI/UX-based projects.<br><br>🤝 I’m looking for help with<br>Improving JavaScript logic and real-world project implementation.<br><br>🌱 I’m currently learning<br>Advanced JavaScript and responsive web design.<br><br>💬 Ask me about<br>Frontend development, Figma to code conversion, and web projects.<br><br>⚡ Fun fact<br>I enjoy turning designs into functional websites.
