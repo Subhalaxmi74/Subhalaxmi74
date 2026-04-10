@@ -1,6 +1,9 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D9A7B4&background=00000004&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhalaxmi" alt="Typing SVG" />
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=0000FF&background=00000000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhalaxmi" 
+      alt="Typing SVG" 
+    />
   </a>
 </div>
  <h3 align="center">A passionate Full Stack Developer (Frontend + Backend) and Software developer</h3>
@@ -71,6 +74,7 @@ I’m open to:
 - Full Time Role
 - Open-source collaboration
 - AI & system design discussions
+
 📩 **Reach me at:** paikaraysubhalaxmi94@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/subhalaxmi-paikaray-09756b25a/
 
