@@ -9,13 +9,11 @@
 ### 👩‍💻 About Me:
 
 - 🌐 I’m skilled in **HTML, CSS, and JavaScript**
-- 🧠 I work on both **Frontend & Backend** development
+- 🧠 I work on both **Frontend & Backend** development and i also work on **Web developer**
 - 💻 Passionate about building clean, user-friendly web interfaces
-- 🌱 Currently learning **API integrations and performance optimization**
 - 🛠️ Love turning creative ideas into functional websites and apps
-- 📧 Reach me at: rajalaxmipaikaray60@gmail.com
 - ⚡ Fun fact: _"I enjoy solving bugs more than writing code sometimes 😄"_
-
+<hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_subha._laxmi._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/subhalaxmi-paikaray-09756b25a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paikaraysubhalaxmi94@gmail.com) 
@@ -32,17 +30,6 @@
   <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-### 💡 Quote of the Day
-
-> “The best error message is the one that never shows up.” 
-
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank">
-    <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>  
-</p>
-
 ### 🛠️ Languages and Tools: 
 
 <p align="left">
@@ -52,14 +39,43 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 </p>
+<hr>
 
+## 📊 GitHub Analytics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subhalaxmi74&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subhalaxmi74&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subhalaxmi74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Subhalaxmi74&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Subhalaxmi74&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Subhalaxmi74&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Subhalaxmi74&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌱 Currently Learning
+
+- Agentic AI with **LangChain & LangGraph**
+- Workflow orchestration
+- Production-grade system design
+- AI-powered developer tools
+- API integrations and performance optimization
+
+
+---
+
+## 🤝 Let’s Connect
+
+I’m open to:
+- Full Time Role
+- Open-source collaboration
+- AI & system design discussions
+📩 **Reach me at:** paikaraysubhalaxmi94@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/subhalaxmi-paikaray-09756b25a/
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=120&section=footer"/>
+</p>
