@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=D9A7B4&background=00000004&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Subhalaxmi" alt="Typing SVG" />
+  </a>
+</div>
+
 # 💫 About Me:
 ✏️ I’m currently working on<br>Frontend web development projects using HTML, CSS, and JavaScript.<br><br>👥 I’m looking to collaborate on<br>Web development and UI/UX-based projects.<br><br>🤝 I’m looking for help with<br>Improving JavaScript logic and real-world project implementation.<br><br>🌱 I’m currently learning<br>Advanced JavaScript and responsive web design.<br><br>💬 Ask me about<br>Frontend development, Figma to code conversion, and web projects.<br><br>⚡ Fun fact<br>I enjoy turning designs into functional websites.
 
